@@ -12,7 +12,8 @@
         "guzzlehttp/guzzle": "^7.7",
         "laravel/framework": "^10.14.1",
         "league/flysystem-aws-s3-v3": "^3.15",
-        "spatie/laravel-backup": "^8.1.11"
+        "spatie/laravel-backup": "^8.1.11",
+        "wnx/laravel-backup-restore": "^1.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.6.2",
